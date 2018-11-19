@@ -1,5 +1,5 @@
 body {
-    background-image: url(./dark-kashi.jpg);
+    background-image: url(./images/dark-kashi.jpg);
     background-repeat: repeat;
     padding: 4%;
     font-family: Consolas;
@@ -7,11 +7,11 @@ body {
 
 @font-face {
     font-family: consolas;
-    src: url(consolab.ttf);
+    src: url(fonts/consolab.ttf);
 }
 @font-face {
     font-family: seg;
-    src: url(seguibl.ttf);
+    src: url(fonts/seguibl.ttf);
 }
 
 .navbar {
