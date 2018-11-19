@@ -3,7 +3,7 @@ body {
     background-repeat: repeat;
     padding: 4%;
     font-family: Consolas;
-    margin: 0;
+    margin: 0 !important;
 }
 
 @font-face {
