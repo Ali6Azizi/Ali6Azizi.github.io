@@ -3,6 +3,7 @@ body {
     background-repeat: repeat;
     padding: 4%;
     font-family: Consolas;
+    margin: 0;
 }
 
 @font-face {
@@ -207,7 +208,6 @@ body {
     animation-name: ani;
     animation-duration: 1s;
     animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
 }
 
 @keyframes ani {
